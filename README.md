@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cervantes</h1>
 
----
-
 A passionate Jr Full Stack Developer from Colombia
 
 - 🔭 I’m currently working on [8 bits store bq](https://8bitsstore.vercel.app/)
