@@ -1,23 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cervantes</h1>
 
+---
+
 A passionate Jr Full Stack Developer from Colombia
-
-<p align="left">
-<a href="https://twitter.com/gabrielcehu" target="blank">
-	<img align="center" src="./assets/twitter.svg" alt="gabrielcehu" height="30" width="30" />
-</a>
-<a href="https://linkedin.com/in/gabriel-cervantes-hurtado" target="blank">
-	<img align="center" src="./assets/linkedin.svg" alt="gabriel-cervantes-hurtado" height="30" width="30" />
-</a>
-<a href="https://instagram.com/gabo_cervantes" target="blank">
-	<img align="center" src="./assets/instagram.svg" alt="gabo_cervantes" height="30" width="30" />
-</a>
-
-</p>
-<div style="width:100%;
-	height:1px;
-	background-color:#ccc;
-	margin:1rem auto;"></div>
 
 - 🔭 I’m currently working on [8 bits store bq](https://8bitsstore.vercel.app/)
 
@@ -31,10 +16,8 @@ A passionate Jr Full Stack Developer from Colombia
 
 ### Languages and Tools
 
-<div style="width:100%;
-	height:1px;
-	background-color:#ccc;
-	margin:1rem auto;"></div>
+---
+
 <div align="left" style="display:grid;
 	grid-template-columns: repeat(auto-fill, minmax(100px,150px));
 	gap:1rem;">
@@ -76,4 +59,20 @@ A passionate Jr Full Stack Developer from Colombia
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
  </a>
+</div>
+
+### Contact me
+
+---
+
+<div align="left">
+<a href="https://linkedin.com/in/gabriel-cervantes-hurtado" target="_blank">
+	<img align="center" src="./assets/linkedin.svg" alt="gabriel-cervantes-hurtado" height="30" width="30" />
+</a>
+<a href="https://twitter.com/gabrielcehu" target="_blank">
+	<img align="center" src="./assets/twitter.svg" alt="gabrielcehu" height="30" width="30" />
+</a>
+<a href="https://instagram.com/gabo_cervantes" target="_blank">
+	<img align="center" src="./assets/instagram.svg" alt="gabo_cervantes" height="30" width="30" />
+</a>
 </div>
