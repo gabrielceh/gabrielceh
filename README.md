@@ -3,9 +3,16 @@
 A passionate Jr Full Stack Developer from Colombia
 
 <p align="left">
-<a href="https://twitter.com/gabrielcehu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielcehu" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/gabriel-cervantes-hurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-cervantes-hurtado" height="20" width="30" /></a>
-<a href="https://instagram.com/gabo_cervantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabo_cervantes" height="20" width="30" /></a>
+<a href="https://twitter.com/gabrielcehu" target="blank">
+	<img align="center" src="./assets/twitter.svg" alt="gabrielcehu" height="30" width="30" />
+</a>
+<a href="https://linkedin.com/in/gabriel-cervantes-hurtado" target="blank">
+	<img align="center" src="./assets/linkedin.svg" alt="gabriel-cervantes-hurtado" height="30" width="30" />
+</a>
+<a href="https://instagram.com/gabo_cervantes" target="blank">
+	<img align="center" src="./assets/instagram.svg" alt="gabo_cervantes" height="30" width="30" />
+</a>
+
 </p>
 <div style="width:100%;
 	height:1px;
