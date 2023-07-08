@@ -29,7 +29,8 @@ A passionate Jr Full Stack Developer from Colombia
 
 - ⚡ Fun fact **I like photography**
 
-<h3 >Languages and Tools:</h3>
+### Languages and Tools
+
 <div style="width:100%;
 	height:1px;
 	background-color:#ccc;
