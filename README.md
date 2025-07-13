@@ -2,11 +2,11 @@
 
 A passionate Jr Full Stack Developer from Colombia
 
-- 🔭 I’m currently working on [8 bits store bq](https://8bitsstore.vercel.app/)
+- 🔭 I’m currently working on [Apprende](https://apprende.cl/)
 
-- 🌱 I’m currently learning **Nextjs 13, typescritp, Material UI**
+- 🌱 I’m currently learning **Dart & Flutter**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, JS, Typescript, CSS, HTML**
 
 - 📫 How to reach me **<gabrielcehu@gmail.com>**
 
